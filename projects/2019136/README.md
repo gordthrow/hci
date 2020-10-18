@@ -33,5 +33,5 @@ link για το codepen:https://codepen.io/p2019136/pen/NWrrqdV
   <span>See the Pen <a href="https://codepen.io/p2019136/pen/NWrrqdV">
   NWrrqdV</a> by Theophilos Panagiotis Papadopoulos (<a href="https://codepen.io/p2019136">@p2019136</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
+  <script async src="https://static.codepen.io/assets/embed/ei.js"> </script>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"> </script>
