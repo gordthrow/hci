@@ -29,8 +29,7 @@
 link για το codepen:https://codepen.io/p2019136/pen/NWrrqdV
 
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p2019136" data-slug-hash="NWrrqdV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="NWrrqdV">
-  <span>See the Pen <a href="https://codepen.io/p2019136/pen/NWrrqdV">
-  NWrrqdV</a> by Theophilos Panagiotis Papadopoulos (<a href="https://codepen.io/p2019136">@p2019136</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
+<iframe height="265" style="width: 100%;" scrolling="no" title="NWrrqdV" src="https://codepen.io/p2019136/embed/NWrrqdV?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/p2019136/pen/NWrrqdV'>NWrrqdV</a> by Theophilos Panagiotis Papadopoulos
+  (<a href='https://codepen.io/p2019136'>@p2019136</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
