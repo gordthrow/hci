@@ -29,7 +29,6 @@
 link για το codepen:https://codepen.io/p2019136/pen/NWrrqdV
 
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="NWrrqdV" src="https://codepen.io/p2019136/embed/NWrrqdV?height=265&theme-id=light&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/p2019136/pen/NWrrqdV'>NWrrqdV</a> by Theophilos Panagiotis Papadopoulos
+ See the Pen <a href='https://codepen.io/p2019136/pen/NWrrqdV'>NWrrqdV</a> by Theophilos Panagiotis Papadopoulos
   (<a href='https://codepen.io/p2019136'>@p2019136</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+
